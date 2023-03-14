@@ -1,0 +1,13 @@
+body {
+    background-color: #F7B3CC;
+    font-size: 2rem;
+}
+
+#main-container {
+    display: grid;
+    place-items: center;
+}
+p {
+    text-align: center;
+    font-size: .85rem;
+}
